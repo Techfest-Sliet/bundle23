@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53c85364.css",
+    "main.js": "/static/js/main.1f031883.js",
+    "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
+    "static/media/background.gif": "/static/media/background.5eda95880226f49ee477.gif",
+    "static/media/Frame 3.webp": "/static/media/Frame 3.91984125eb7cebbc005b.webp",
+    "static/media/Frame 4.webp": "/static/media/Frame 4.3c4a29c6684dd14a7f77.webp",
+    "static/media/Frame 2.webp": "/static/media/Frame 2.a65ab152450273d736b2.webp",
+    "static/media/techFEST '23.webp": "/static/media/techFEST '23.faa442850bd5a6137cf8.webp",
+    "static/media/Workshop.png": "/static/media/Workshop.ab536c443822b62a5ad4.png",
+    "static/media/Background.webp": "/static/media/Background.c16a73abb5b480c6e7da.webp",
+    "static/media/contact_us_img.webp": "/static/media/contact_us_img.631a6d6e30d41b1adba9.webp",
+    "static/media/Group 4.png": "/static/media/Group 4.9271fc501f480995b099.png",
+    "static/media/Group 25.png": "/static/media/Group 25.1deca535a67970bc6c5b.png",
+    "static/media/Group 18.png": "/static/media/Group 18.bb8de01994440f0ff0e9.png",
+    "static/media/Group 24.png": "/static/media/Group 24.af38d334790e5e3fc284.png",
+    "static/media/Group 28.png": "/static/media/Group 28.675696883176cacef16f.png",
+    "static/media/Robozar.webp": "/static/media/Robozar.6ae166d68a5e0289d222.webp",
+    "static/media/Group 12.png": "/static/media/Group 12.d0df70f1240c4d3bc925.png",
+    "static/media/dummy.jpg": "/static/media/dummy.460420b263b2628007fc.jpg",
+    "static/media/Group 19.png": "/static/media/Group 19.91a1f04f40cf8e5ef49e.png",
+    "static/media/Group 17.png": "/static/media/Group 17.5682378d0eaef2c2cbf6.png",
+    "static/media/Group 29.png": "/static/media/Group 29.caab67328384e0b64ef0.png",
+    "static/media/Group 11.png": "/static/media/Group 11.e00bbfe0e3d17b63c774.png",
+    "static/media/Group 23.png": "/static/media/Group 23.65afefd379c67cad3a1a.png",
+    "static/media/Group 13.png": "/static/media/Group 13.e9ef73db6b08444fa2fe.png",
+    "static/media/Group 26.png": "/static/media/Group 26.d8d41df31ce015c8280d.png",
+    "index.html": "/index.html",
+    "main.53c85364.css.map": "/static/css/main.53c85364.css.map",
+    "main.1f031883.js.map": "/static/js/main.1f031883.js.map",
+    "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c85364.css",
+    "static/js/main.1f031883.js"
+  ]
+}
