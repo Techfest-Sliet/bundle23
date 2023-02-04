@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa94a824.css",
-    "main.js": "/static/js/main.717aa12b.js",
+    "main.css": "/static/css/main.7abba1a4.css",
+    "main.js": "/static/js/main.fde9b51d.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/background.gif": "/static/media/background.5eda95880226f49ee477.gif",
     "static/media/Eventbackground.gif": "/static/media/Eventbackground.32a4c93284e1f3d0a929.gif",
     "static/media/Frame 3.webp": "/static/media/Frame 3.91984125eb7cebbc005b.webp",
+    "static/media/img2.png": "/static/media/img2.e160ab7ba3cf2bf9780a.png",
+    "static/media/img1.png": "/static/media/img1.b5838b5d88c177aa567c.png",
+    "static/media/img4.png": "/static/media/img4.05e64617e0f5cfcc0d2e.png",
+    "static/media/img3.png": "/static/media/img3.99adff55f3d41227b6a3.png",
+    "static/media/img5.png": "/static/media/img5.0ee31b2383845913bf93.png",
     "static/media/Frame 4.webp": "/static/media/Frame 4.3c4a29c6684dd14a7f77.webp",
     "static/media/Frame 2.webp": "/static/media/Frame 2.a65ab152450273d736b2.webp",
     "static/media/techFEST '23.webp": "/static/media/techFEST '23.faa442850bd5a6137cf8.webp",
@@ -26,6 +31,7 @@
     "static/media/karyarachna.png": "/static/media/karyarachna.2bfb11a3fbc47bfad8ac.png",
     "static/media/Group 19.png": "/static/media/Group 19.91a1f04f40cf8e5ef49e.png",
     "static/media/Group 17.png": "/static/media/Group 17.5682378d0eaef2c2cbf6.png",
+    "static/media/logo.png": "/static/media/logo.cfd695fc62ed26b2d942.png",
     "static/media/Group 29.png": "/static/media/Group 29.caab67328384e0b64ef0.png",
     "static/media/Group 11.png": "/static/media/Group 11.e00bbfe0e3d17b63c774.png",
     "static/media/Group 23.png": "/static/media/Group 23.65afefd379c67cad3a1a.png",
@@ -36,12 +42,12 @@
     "static/media/genesis.webp": "/static/media/genesis.3c65d0c24c8a8ae175a0.webp",
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
     "index.html": "/index.html",
-    "main.fa94a824.css.map": "/static/css/main.fa94a824.css.map",
-    "main.717aa12b.js.map": "/static/js/main.717aa12b.js.map",
+    "main.7abba1a4.css.map": "/static/css/main.7abba1a4.css.map",
+    "main.fde9b51d.js.map": "/static/js/main.fde9b51d.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa94a824.css",
-    "static/js/main.717aa12b.js"
+    "static/css/main.7abba1a4.css",
+    "static/js/main.fde9b51d.js"
   ]
 }
