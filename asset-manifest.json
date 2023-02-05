@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.33f2dd95.css",
-    "main.js": "/static/js/main.b55516e8.js",
+    "main.js": "/static/js/main.ec1c9892.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/background.gif": "/static/media/background.5eda95880226f49ee477.gif",
     "static/media/Eventbackground.gif": "/static/media/Eventbackground.32a4c93284e1f3d0a929.gif",
@@ -43,11 +43,11 @@
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
     "index.html": "/index.html",
     "main.33f2dd95.css.map": "/static/css/main.33f2dd95.css.map",
-    "main.b55516e8.js.map": "/static/js/main.b55516e8.js.map",
+    "main.ec1c9892.js.map": "/static/js/main.ec1c9892.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33f2dd95.css",
-    "static/js/main.b55516e8.js"
+    "static/js/main.ec1c9892.js"
   ]
 }
