@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77339775.css",
-    "main.js": "/static/js/main.2cb1791c.js",
+    "main.js": "/static/js/main.9f4e1c09.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/Frame 4.png": "/static/media/Frame 4.0db12c0b67510f28b35c.png",
     "static/media/Frame 3.png": "/static/media/Frame 3.bb534c9937c135feb5c1.png",
@@ -53,11 +53,11 @@
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
     "index.html": "/index.html",
     "main.77339775.css.map": "/static/css/main.77339775.css.map",
-    "main.2cb1791c.js.map": "/static/js/main.2cb1791c.js.map",
+    "main.9f4e1c09.js.map": "/static/js/main.9f4e1c09.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77339775.css",
-    "static/js/main.2cb1791c.js"
+    "static/js/main.9f4e1c09.js"
   ]
 }
