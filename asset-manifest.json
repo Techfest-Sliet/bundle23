@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.473cd304.css",
-    "main.js": "/static/js/main.b5c7b986.js",
+    "main.css": "/static/css/main.9f5bf46d.css",
+    "main.js": "/static/js/main.a601bb23.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/Frame 4.png": "/static/media/Frame 4.0db12c0b67510f28b35c.png",
     "static/media/Frame 3.png": "/static/media/Frame 3.bb534c9937c135feb5c1.png",
@@ -9,7 +9,7 @@
     "static/media/aaan.png": "/static/media/aaan.6a284d0a0e2b8b8642a8.png",
     "static/media/background.gif": "/static/media/background.5eda95880226f49ee477.gif",
     "static/media/Eventbackground.gif": "/static/media/Eventbackground.32a4c93284e1f3d0a929.gif",
-    "static/media/hexagon.png": "/static/media/hexagon.1b821d36c506a30f301d.png",
+    "static/media/hexagon.png": "/static/media/hexagon.1c51138da745988d1be2.png",
     "static/media/img2.png": "/static/media/img2.e160ab7ba3cf2bf9780a.png",
     "static/media/img1.png": "/static/media/img1.b5838b5d88c177aa567c.png",
     "static/media/img4.png": "/static/media/img4.05e64617e0f5cfcc0d2e.png",
@@ -19,6 +19,7 @@
     "static/media/CHEMFOR1_11zon.png": "/static/media/CHEMFOR1_11zon.5a28cd0316d688f38ede.png",
     "static/media/GENESIS1_11zon.png": "/static/media/GENESIS1_11zon.5c4af3037325e01e8524.png",
     "static/media/plexus.png": "/static/media/plexus.9e0967e8eefd2cce522a.png",
+    "static/media/AARAMBH_11zon.png": "/static/media/AARAMBH_11zon.eeef6fcb609f9c91e4f7.png",
     "static/media/ROBOZAR1_11zon.png": "/static/media/ROBOZAR1_11zon.90cc0cac9d3cf76ae0d5.png",
     "static/media/Workshop.png": "/static/media/Workshop.ab536c443822b62a5ad4.png",
     "static/media/ELECTRICA1_11zon.png": "/static/media/ELECTRICA1_11zon.d807e9803d51b774b6e6.png",
@@ -30,6 +31,7 @@
     "static/media/Product Sans Bold Italic.ttf": "/static/media/Product Sans Bold Italic.014fb88cf36e7fc14acb.ttf",
     "static/media/Product Sans Bold.ttf": "/static/media/Product Sans Bold.53df38d5491afbeb42a5.ttf",
     "static/media/Background.webp": "/static/media/Background.c16a73abb5b480c6e7da.webp",
+    "static/media/Untitled.png": "/static/media/Untitled.3650b3af2579c6cb999c.png",
     "static/media/Product Sans Regular.ttf": "/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
     "static/media/contact_us_img.webp": "/static/media/contact_us_img.631a6d6e30d41b1adba9.webp",
     "static/media/MonumentExtended-Regular.otf": "/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
@@ -59,12 +61,12 @@
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
     "static/media/genesistp.webp": "/static/media/genesistp.ee45b2a53103873b0241.webp",
     "index.html": "/index.html",
-    "main.473cd304.css.map": "/static/css/main.473cd304.css.map",
-    "main.b5c7b986.js.map": "/static/js/main.b5c7b986.js.map",
+    "main.9f5bf46d.css.map": "/static/css/main.9f5bf46d.css.map",
+    "main.a601bb23.js.map": "/static/js/main.a601bb23.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.473cd304.css",
-    "static/js/main.b5c7b986.js"
+    "static/css/main.9f5bf46d.css",
+    "static/js/main.a601bb23.js"
   ]
 }
