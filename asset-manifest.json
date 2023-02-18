@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f6974c3.css",
-    "main.js": "/static/js/main.4a9a8b69.js",
+    "main.css": "/static/css/main.473cd304.css",
+    "main.js": "/static/js/main.403683a7.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/Frame 4.png": "/static/media/Frame 4.0db12c0b67510f28b35c.png",
     "static/media/Frame 3.png": "/static/media/Frame 3.bb534c9937c135feb5c1.png",
     "static/media/Frame 2.png": "/static/media/Frame 2.09bc6d1b29b9d71b7021.png",
+    "static/media/aaan.png": "/static/media/aaan.6a284d0a0e2b8b8642a8.png",
     "static/media/background.gif": "/static/media/background.5eda95880226f49ee477.gif",
     "static/media/Eventbackground.gif": "/static/media/Eventbackground.32a4c93284e1f3d0a929.gif",
     "static/media/hexagon.png": "/static/media/hexagon.1b821d36c506a30f301d.png",
@@ -55,15 +56,15 @@
     "static/media/mechanica.webp": "/static/media/mechanica.d4d925073e2b6ec5a6cb.webp",
     "static/media/linkedin.png": "/static/media/linkedin.6924c2ee73c187c8645c.png",
     "static/media/electrica.webp": "/static/media/electrica.db7be132888232c4b95a.webp",
-    "static/media/genesis.webp": "/static/media/genesis.3c65d0c24c8a8ae175a0.webp",
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
+    "static/media/genesistp.webp": "/static/media/genesistp.ee45b2a53103873b0241.webp",
     "index.html": "/index.html",
-    "main.2f6974c3.css.map": "/static/css/main.2f6974c3.css.map",
-    "main.4a9a8b69.js.map": "/static/js/main.4a9a8b69.js.map",
+    "main.473cd304.css.map": "/static/css/main.473cd304.css.map",
+    "main.403683a7.js.map": "/static/js/main.403683a7.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6974c3.css",
-    "static/js/main.4a9a8b69.js"
+    "static/css/main.473cd304.css",
+    "static/js/main.403683a7.js"
   ]
 }
