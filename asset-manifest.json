@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc237dd.css",
-    "main.js": "/static/js/main.2c07ac3d.js",
+    "main.css": "/static/css/main.0022b1bb.css",
+    "main.js": "/static/js/main.7894445e.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/Frame 4.png": "/static/media/Frame 4.0db12c0b67510f28b35c.png",
     "static/media/Frame 3.png": "/static/media/Frame 3.bb534c9937c135feb5c1.png",
@@ -16,6 +16,7 @@
     "static/media/img3.png": "/static/media/img3.99adff55f3d41227b6a3.png",
     "static/media/img5.png": "/static/media/img5.0ee31b2383845913bf93.png",
     "static/media/techFEST '23.webp": "/static/media/techFEST '23.faa442850bd5a6137cf8.webp",
+    "static/media/Group 31.jpg": "/static/media/Group 31.707ab67761dee2f8b0d0.jpg",
     "static/media/CHEMFOR1_11zon.png": "/static/media/CHEMFOR1_11zon.5a28cd0316d688f38ede.png",
     "static/media/GENESIS1_11zon.png": "/static/media/GENESIS1_11zon.5c4af3037325e01e8524.png",
     "static/media/plexus.png": "/static/media/plexus.9e0967e8eefd2cce522a.png",
@@ -27,9 +28,11 @@
     "static/media/PLEXUS1_11zon.png": "/static/media/PLEXUS1_11zon.88006cf7110da3741ee3.png",
     "static/media/KARYARACHNA1_11zon.png": "/static/media/KARYARACHNA1_11zon.2fef06196c5b4d4302fb.png",
     "static/media/KERMIS1_11zon.png": "/static/media/KERMIS1_11zon.45bdd433c6962f7da3a5.png",
+    "static/media/Group 32.png": "/static/media/Group 32.a76258f5ef1de77fab04.png",
     "static/media/Product Sans Italic.ttf": "/static/media/Product Sans Italic.9f3855791ace888bfd09.ttf",
     "static/media/Product Sans Bold Italic.ttf": "/static/media/Product Sans Bold Italic.014fb88cf36e7fc14acb.ttf",
     "static/media/Product Sans Bold.ttf": "/static/media/Product Sans Bold.53df38d5491afbeb42a5.ttf",
+    "static/media/Group 33.jpg": "/static/media/Group 33.c11a62503d6b9555919a.jpg",
     "static/media/Background.webp": "/static/media/Background.c16a73abb5b480c6e7da.webp",
     "static/media/Untitled.png": "/static/media/Untitled.3650b3af2579c6cb999c.png",
     "static/media/Product Sans Regular.ttf": "/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
@@ -61,12 +64,12 @@
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
     "static/media/genesistp.webp": "/static/media/genesistp.ee45b2a53103873b0241.webp",
     "index.html": "/index.html",
-    "main.fbc237dd.css.map": "/static/css/main.fbc237dd.css.map",
-    "main.2c07ac3d.js.map": "/static/js/main.2c07ac3d.js.map",
+    "main.0022b1bb.css.map": "/static/css/main.0022b1bb.css.map",
+    "main.7894445e.js.map": "/static/js/main.7894445e.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbc237dd.css",
-    "static/js/main.2c07ac3d.js"
+    "static/css/main.0022b1bb.css",
+    "static/js/main.7894445e.js"
   ]
 }
