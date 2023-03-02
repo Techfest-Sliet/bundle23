@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0022b1bb.css",
-    "main.js": "/static/js/main.cee32109.js",
+    "main.css": "/static/css/main.57f7c593.css",
+    "main.js": "/static/js/main.6485371a.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/Frame 4.png": "/static/media/Frame 4.0db12c0b67510f28b35c.png",
     "static/media/Frame 3.png": "/static/media/Frame 3.bb534c9937c135feb5c1.png",
@@ -28,6 +28,7 @@
     "static/media/PLEXUS1_11zon.png": "/static/media/PLEXUS1_11zon.88006cf7110da3741ee3.png",
     "static/media/KARYARACHNA1_11zon.png": "/static/media/KARYARACHNA1_11zon.2fef06196c5b4d4302fb.png",
     "static/media/KERMIS1_11zon.png": "/static/media/KERMIS1_11zon.45bdd433c6962f7da3a5.png",
+    "static/media/Group 36.png": "/static/media/Group 36.ff1e570cf3c69cfc6093.png",
     "static/media/Group 32.png": "/static/media/Group 32.a76258f5ef1de77fab04.png",
     "static/media/Product Sans Italic.ttf": "/static/media/Product Sans Italic.9f3855791ace888bfd09.ttf",
     "static/media/Product Sans Bold Italic.ttf": "/static/media/Product Sans Bold Italic.014fb88cf36e7fc14acb.ttf",
@@ -39,6 +40,7 @@
     "static/media/contact_us_img.webp": "/static/media/contact_us_img.631a6d6e30d41b1adba9.webp",
     "static/media/MonumentExtended-Regular.otf": "/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
     "static/media/MonumentExtended-Ultrabold.otf": "/static/media/MonumentExtended-Ultrabold.9db16afed1996befff6b.otf",
+    "static/media/Group 38.jpg": "/static/media/Group 38.06a48f6cfa7673e08c8e.jpg",
     "static/media/Robozar.png": "/static/media/Robozar.1ad6d572946774635681.png",
     "static/media/kermis.webp": "/static/media/kermis.3754c2f5803d8273756a.webp",
     "static/media/Group 4.png": "/static/media/Group 4.9271fc501f480995b099.png",
@@ -54,6 +56,7 @@
     "static/media/Group 17.png": "/static/media/Group 17.5682378d0eaef2c2cbf6.png",
     "static/media/logo.png": "/static/media/logo.cfd695fc62ed26b2d942.png",
     "static/media/Group 29.png": "/static/media/Group 29.caab67328384e0b64ef0.png",
+    "static/media/Group 34.jpeg": "/static/media/Group 34.13b5cd40f3dca82bdb70.jpeg",
     "static/media/Group 11.png": "/static/media/Group 11.e00bbfe0e3d17b63c774.png",
     "static/media/Group 23.png": "/static/media/Group 23.65afefd379c67cad3a1a.png",
     "static/media/Group 13.png": "/static/media/Group 13.e9ef73db6b08444fa2fe.png",
@@ -64,12 +67,12 @@
     "static/media/chemfor.webp": "/static/media/chemfor.6bd19ece09c9cf96b50a.webp",
     "static/media/genesistp.webp": "/static/media/genesistp.ee45b2a53103873b0241.webp",
     "index.html": "/index.html",
-    "main.0022b1bb.css.map": "/static/css/main.0022b1bb.css.map",
-    "main.cee32109.js.map": "/static/js/main.cee32109.js.map",
+    "main.57f7c593.css.map": "/static/css/main.57f7c593.css.map",
+    "main.6485371a.js.map": "/static/js/main.6485371a.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0022b1bb.css",
-    "static/js/main.cee32109.js"
+    "static/css/main.57f7c593.css",
+    "static/js/main.6485371a.js"
   ]
 }
