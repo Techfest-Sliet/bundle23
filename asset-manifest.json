@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.48c4b5b0.css",
-    "main.js": "/static/js/main.c9553c6e.js",
+    "main.js": "/static/js/main.7324844d.js",
     "static/js/787.a342cf23.chunk.js": "/static/js/787.a342cf23.chunk.js",
     "static/media/Frame 3.png": "/static/media/Frame 3.bb534c9937c135feb5c1.png",
     "static/media/Frame 2.png": "/static/media/Frame 2.09bc6d1b29b9d71b7021.png",
     "static/media/aaan.png": "/static/media/aaan.6a284d0a0e2b8b8642a8.png",
     "static/media/background.gif": "/static/media/background.5eda95880226f49ee477.gif",
+    "static/media/SHUBHAM.jpg": "/static/media/SHUBHAM.8d30610ddbb955eb8825.jpg",
     "static/media/Eventbackground.gif": "/static/media/Eventbackground.32a4c93284e1f3d0a929.gif",
     "static/media/hexagon.png": "/static/media/hexagon.1c51138da745988d1be2.png",
+    "static/media/SUDHANSHU KUMAR.jpg": "/static/media/SUDHANSHU KUMAR.8b72615230eaaec8454b.jpg",
+    "static/media/ADITYA MALL.jpeg": "/static/media/ADITYA MALL.21c540ffb88389a48323.jpeg",
     "static/media/img2.png": "/static/media/img2.e160ab7ba3cf2bf9780a.png",
     "static/media/img1.png": "/static/media/img1.b5838b5d88c177aa567c.png",
     "static/media/img4.png": "/static/media/img4.05e64617e0f5cfcc0d2e.png",
     "static/media/img3.png": "/static/media/img3.99adff55f3d41227b6a3.png",
     "static/media/img5.png": "/static/media/img5.0ee31b2383845913bf93.png",
+    "static/media/JS GILL.jpg": "/static/media/JS GILL.d9100fb7ed5e91a79f05.jpg",
     "static/media/techFEST '23.webp": "/static/media/techFEST '23.faa442850bd5a6137cf8.webp",
     "static/media/Group 31.jpg": "/static/media/Group 31.707ab67761dee2f8b0d0.jpg",
     "static/media/CHEMFOR1_11zon.png": "/static/media/CHEMFOR1_11zon.5a28cd0316d688f38ede.png",
@@ -27,7 +31,9 @@
     "static/media/PLEXUS1_11zon.png": "/static/media/PLEXUS1_11zon.88006cf7110da3741ee3.png",
     "static/media/KARYARACHNA1_11zon.png": "/static/media/KARYARACHNA1_11zon.2fef06196c5b4d4302fb.png",
     "static/media/KERMIS1_11zon.png": "/static/media/KERMIS1_11zon.45bdd433c6962f7da3a5.png",
+    "static/media/aditee.jpg": "/static/media/aditee.5d49cd2e27b394762488.jpg",
     "static/media/Group 36.png": "/static/media/Group 36.ff1e570cf3c69cfc6093.png",
+    "static/media/ABHISHEK.jpeg": "/static/media/ABHISHEK.d443ac331fb10ecd4d66.jpeg",
     "static/media/Group 32.png": "/static/media/Group 32.a76258f5ef1de77fab04.png",
     "static/media/Product Sans Italic.ttf": "/static/media/Product Sans Italic.9f3855791ace888bfd09.ttf",
     "static/media/Product Sans Bold Italic.ttf": "/static/media/Product Sans Bold Italic.014fb88cf36e7fc14acb.ttf",
@@ -35,6 +41,7 @@
     "static/media/Group 33.jpg": "/static/media/Group 33.c11a62503d6b9555919a.jpg",
     "static/media/Background.webp": "/static/media/Background.c16a73abb5b480c6e7da.webp",
     "static/media/Untitled.png": "/static/media/Untitled.3650b3af2579c6cb999c.png",
+    "static/media/ADARSH KUMAR.jpg": "/static/media/ADARSH KUMAR.3b64cee9d4cf7e7eaf20.jpg",
     "static/media/Product Sans Regular.ttf": "/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
     "static/media/contact_us_img.webp": "/static/media/contact_us_img.631a6d6e30d41b1adba9.webp",
     "static/media/MonumentExtended-Regular.otf": "/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
@@ -42,6 +49,7 @@
     "static/media/Group 38.jpg": "/static/media/Group 38.06a48f6cfa7673e08c8e.jpg",
     "static/media/Robozar.png": "/static/media/Robozar.1ad6d572946774635681.png",
     "static/media/kermis.webp": "/static/media/kermis.3754c2f5803d8273756a.webp",
+    "static/media/SHAHAB MAHFOOZ.jpg": "/static/media/SHAHAB MAHFOOZ.5f8014485c32a97712fb.jpg",
     "static/media/Group 4.png": "/static/media/Group 4.9271fc501f480995b099.png",
     "static/media/Group 25.png": "/static/media/Group 25.1deca535a67970bc6c5b.png",
     "static/media/Group 18.png": "/static/media/Group 18.bb8de01994440f0ff0e9.png",
@@ -54,6 +62,7 @@
     "static/media/Group 19.png": "/static/media/Group 19.91a1f04f40cf8e5ef49e.png",
     "static/media/Group 17.png": "/static/media/Group 17.5682378d0eaef2c2cbf6.png",
     "static/media/logo.png": "/static/media/logo.cfd695fc62ed26b2d942.png",
+    "static/media/GAURAV KUMAR.jpg": "/static/media/GAURAV KUMAR.52d0c1592f7f16dc2fb6.jpg",
     "static/media/Group 29.png": "/static/media/Group 29.caab67328384e0b64ef0.png",
     "static/media/Group 34.jpeg": "/static/media/Group 34.13b5cd40f3dca82bdb70.jpeg",
     "static/media/user.png": "/static/media/user.13d9885d77f1b6e2df31.png",
@@ -68,11 +77,11 @@
     "static/media/genesistp.webp": "/static/media/genesistp.ee45b2a53103873b0241.webp",
     "index.html": "/index.html",
     "main.48c4b5b0.css.map": "/static/css/main.48c4b5b0.css.map",
-    "main.c9553c6e.js.map": "/static/js/main.c9553c6e.js.map",
+    "main.7324844d.js.map": "/static/js/main.7324844d.js.map",
     "787.a342cf23.chunk.js.map": "/static/js/787.a342cf23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48c4b5b0.css",
-    "static/js/main.c9553c6e.js"
+    "static/js/main.7324844d.js"
   ]
 }
